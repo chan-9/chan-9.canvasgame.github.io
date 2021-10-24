@@ -1,0 +1,14 @@
+
+body{
+    background-color: gray;
+}
+canvas{
+    background-color: #323232;
+    box-shadow: 0px 0px 10px black;
+}
+button{
+    width: 30%;
+    font-size: 1em;
+    box-shadow: 0px 0px 10px black;
+    margin-top: 10px;
+}
